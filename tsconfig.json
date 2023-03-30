@@ -1,0 +1,32 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.web.json",
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue", 
+    "public/assets"
+, "Form", "temp/empty.vue.ts", "temp/index.vue.ts", "temp/page.vue.ts"  ],
+  "compilerOptions": {
+    "preserveValueImports": false, 
+    "suppressImplicitAnyIndexErrors": true,
+    "importsNotUsedAsValues": "preserve",
+    "noImplicitReturns": true,
+    "resolveJsonModule": true,
+    "noImplicitAny": false,
+    "baseUrl": ".",
+    "allowJs": true,
+    "lib": ["esnext", "dom"],
+    "types": [
+      "vite/client",
+      "vite-plugin-pwa/client",
+      "vite-plugin-pages/client",
+      "./src/windows.d.ts"
+    ],
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/src": ["./src/*"]
+    }
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}

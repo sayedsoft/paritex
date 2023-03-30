@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#232630;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#010101;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M1036.4,129c-94.2-79.9-195.5-95.4-233.7-99c-199.1,0-397,0-596.2,0v319.5c199.1,0,397,0,596.2,0l374.4,1.2
+			C1166.3,313.8,1135.3,211.3,1036.4,129z"/>
+		<path class="st0" d="M1177.1,349.6c-106.1,0-213.4,0-319.5-1.2c39.3,19.1,65.6,58.4,66.8,102.5c1.2,46.5-25,90.6-68,110.9
+			C688.2,561.8,352,881.4,352,881.4c157.4,0,316,0,473.3,0c31-2.4,155-16.7,251.6-119.2c72.7-77.5,93-164.5,99-200.3
+			c6-29.8,10.7-65.6,10.7-107.3C1186.6,415.2,1181.8,379.4,1177.1,349.6z"/>
+		<path class="st0" d="M856.3,561.8H352c-0.7,106.5-1.5,212.9-2.2,319.4c151.4,0.1,302.8,0.1,454.3,0.2L856.3,561.8z"/>
+	</g>
+	<polygon class="st0" points="352,561.8 350.8,1169.9 13.4,1169.9 13.4,868.3 	"/>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="353.6134" y1="479.7882" x2="672.6816" y2="479.7882" gradientTransform="matrix(1 0 0 -1 0 1202)">
+		<stop  offset="0" style="stop-color:#010101;stop-opacity:0.5"/>
+		<stop  offset="6.851614e-02" style="stop-color:#232221;stop-opacity:0.4657"/>
+		<stop  offset="0.1687" style="stop-color:#2E2C2A;stop-opacity:0.4157"/>
+		<stop  offset="0.2751" style="stop-color:#2F2E29;stop-opacity:0.3624"/>
+		<stop  offset="0.3872" style="stop-color:#2D2C27;stop-opacity:0.3064"/>
+		<stop  offset="0.5068" style="stop-color:#2B2B23;stop-opacity:0.2466"/>
+		<stop  offset="0.6374" style="stop-color:#292921;stop-opacity:0.1813"/>
+		<stop  offset="0.7873" style="stop-color:#27281F;stop-opacity:0.1064"/>
+		<stop  offset="1" style="stop-color:#27281F;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st1" d="M354,561.9c0,106.5,0,212.9,0,319.4c71.3,0.4,142.7,0.8,214,1.2c65.6-26.2,107.3-94.2,104.9-166.9
+		c-2.4-68-44.1-128.8-104.9-153.8c-31.9,0-78.9,0.1-110.8,0.1C428.8,561.9,382.4,561.9,354,561.9z"/>
+	<path class="st2" d="M271.3,448.7"/>
+</g>
+</svg>
